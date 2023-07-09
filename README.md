@@ -2,10 +2,10 @@
 
 react components made by myself
 
-##Calendar 
-dependency : `date-fns`
+## Calendar  
+dependency : `date-fns`  
 usage:
-```
+```JavaScript
 import CalendarProvider from '../Calendar/Calendar';
 const main = ()=>{
   const [date , setDate] = useState(); //define a state to get date information from calendar
